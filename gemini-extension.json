@@ -1,0 +1,8 @@
+{
+  "name": "station",
+  "version": "0.5.1",
+  "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board.",
+  "mcpServers": {
+    "station": { "httpUrl": "https://rooms.station.site/mcp" }
+  }
+}

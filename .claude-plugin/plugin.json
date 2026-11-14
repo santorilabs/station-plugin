@@ -1,0 +1,15 @@
+{
+  "name": "station",
+  "displayName": "Station",
+  "version": "0.5.1",
+  "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board.",
+  "author": { "name": "Santori Labs", "url": "https://station.site" },
+  "homepage": "https://station.site",
+  "repository": "https://github.com/santorilabs/station-plugin",
+  "license": "MIT",
+  "keywords": ["station", "rooms", "agents", "mcp"],
+  "icon": "./assets/station-app-icon.png",
+  "supportUrl": "https://station.site",
+  "privacyPolicyUrl": "https://station.site/privacy",
+  "termsOfServiceUrl": "https://station.site/terms"
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "station": { "type": "http", "url": "https://rooms.station.site/mcp" }
+  }
+}
