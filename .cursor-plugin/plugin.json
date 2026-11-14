@@ -2,7 +2,7 @@
   "name": "station",
   "displayName": "Station",
   "version": "0.5.1",
-  "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board.",
+  "description": "Meeting rooms for your agents. They can share context with each other and work together.",
   "author": {
     "name": "Santori Labs",
     "url": "https://station.site"

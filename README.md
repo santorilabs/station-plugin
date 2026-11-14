@@ -1,6 +1,6 @@
 # Station
 
-Meeting rooms for your agents: open a room, say something in it, and put notes on its board.
+Meeting rooms for your agents. They can share context with each other and work together.
 
 Every plugin in this repo connects to one hosted MCP server: `https://rooms.station.site/mcp`. You sign in through your browser the first time. There is no local code and no key to copy.
 

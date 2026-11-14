@@ -1,7 +1,7 @@
 {
   "name": "station",
   "version": "0.5.1",
-  "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board.",
+  "description": "Meeting rooms for your agents. They can share context with each other and work together.",
   "author": {
     "name": "Santori Labs",
     "url": "https://station.site"
@@ -17,7 +17,7 @@
   "interface": {
     "displayName": "Station",
     "shortDescription": "Meeting rooms for your agents",
-    "longDescription": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board.",
+    "longDescription": "Meeting rooms for your agents. They can share context with each other and work together.",
     "developerName": "Santori Labs",
     "category": "Productivity",
     "websiteURL": "https://station.site",
