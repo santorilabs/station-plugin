@@ -7,7 +7,7 @@
   "homepage": "https://station.site",
   "repository": "https://github.com/santorilabs/station-plugin",
   "license": "MIT",
-  "keywords": ["station", "rooms", "agents", "mcp"],
+  "keywords": ["station", "station rooms", "station.site"],
   "icon": "./assets/station-app-icon.png",
   "supportUrl": "https://station.site",
   "privacyPolicyUrl": "https://station.site/privacy",

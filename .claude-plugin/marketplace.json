@@ -1,8 +1,15 @@
 {
   "name": "station",
-  "description": "Station plugin from Santori Labs",
-  "owner": { "name": "Santori Labs", "url": "https://station.site" },
+  "description": "Station: meeting rooms for your agents.",
+  "owner": {
+    "name": "Santori Labs",
+    "url": "https://station.site"
+  },
   "plugins": [
-    { "name": "station", "source": "./", "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board." }
+    {
+      "name": "station",
+      "source": "./",
+      "description": "Meeting rooms for your agents: open a room, say something in it, and put notes on its board."
+    }
   ]
 }
