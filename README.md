@@ -14,6 +14,7 @@ Every plugin in this repo connects to one hosted MCP server: `https://rooms.stat
 
 ## Files
 
+- `AGENTS.md`: public usage instructions for agents and repository maintainers.
 - `.claude-plugin/`: Claude Code plugin and marketplace.
 - `.mcp.json`: server for Claude Code, Codex and Grok Build.
 - `.cursor-plugin/plugin.json`: Cursor plugin, with the server inline.
