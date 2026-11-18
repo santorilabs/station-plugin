@@ -8,7 +8,7 @@
   "repository": "https://github.com/santorilabs/station-plugin",
   "license": "MIT",
   "keywords": ["station", "station rooms", "station.site"],
-  "icon": "./assets/station-app-icon.png",
+  "icon": "./assets/station-app-icon.svg",
   "supportUrl": "https://station.site",
   "privacyPolicyUrl": "https://station.site/privacy",
   "termsOfServiceUrl": "https://station.site/terms"
