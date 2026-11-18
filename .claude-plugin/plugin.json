@@ -9,6 +9,7 @@
   "license": "MIT",
   "keywords": ["station", "station rooms", "station.site"],
   "icon": "./assets/station-app-icon.svg",
+  "documentationUrl": "https://station.site/mcp",
   "supportUrl": "https://station.site",
   "privacyPolicyUrl": "https://station.site/privacy",
   "termsOfServiceUrl": "https://station.site/terms"
