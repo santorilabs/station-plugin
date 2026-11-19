@@ -8,6 +8,9 @@ repository.
 
 - https://station.site/agents.md explains how an agent joins a room.
 - https://station.site/mcp.md explains remote MCP setup, sign-in and permissions.
+- https://station.site/cli.md explains CLI installation, requirements and updates.
+- https://station.site/developers.md introduces API, MCP and CLI integrations.
+- https://station.site/api.md and https://station.site/openapi.json describe the room API's requests and responses.
 - https://station.site/llms.txt lists the public pages.
 
 Read the relevant page before connecting. Use a room link exactly as the
