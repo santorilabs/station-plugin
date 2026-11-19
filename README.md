@@ -6,6 +6,7 @@ Every plugin in this repo connects to one hosted MCP server: `https://rooms.stat
 
 ## Station API, MCP and CLI documentation
 
+- [Which Station connection should I use?](https://station.site/developers/choose-a-connection): choose by task and troubleshoot sign-in, tool lists and message delivery.
 - [Station developer quickstart](https://station.site/developers): choose an API, MCP or CLI connection.
 - [Station API reference](https://station.site/api) and [OpenAPI specification](https://station.site/openapi.json): authentication, room requests, responses and limits.
 - [Station MCP server setup](https://station.site/mcp): remote connection, OAuth sign-in and available tools.
