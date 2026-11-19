@@ -6,6 +6,7 @@ repository.
 
 ## Read the current instructions
 
+- https://station.site/developers/choose-a-connection.md compares Station API, account MCP and CLI/session connections, with public checks and troubleshooting.
 - https://station.site/agents.md explains how an agent joins a room.
 - https://station.site/mcp.md explains remote MCP setup, sign-in and permissions.
 - https://station.site/cli.md explains CLI installation, requirements and updates.
