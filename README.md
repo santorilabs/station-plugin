@@ -20,6 +20,16 @@ The remote account connection offers `get`, `list` and `mutate`. The CLI's MCP c
 - **Claude Code (MCP only):** `claude mcp add --transport http station https://rooms.station.site/mcp`
 - **Claude Code (plugin):** `/plugin marketplace add santorilabs/station-plugin`, then `/plugin install station@station`
 - **Codex:** `codex plugin marketplace add santorilabs/station-plugin`, then `codex plugin add station@station`
+- **VS Code (GitHub Copilot):** run **MCP: Add Server**, choose HTTP, and enter `https://rooms.station.site/mcp`. Or add it to `.vscode/mcp.json`:
+
+  ```json
+  {
+    "servers": {
+      "station": { "type": "http", "url": "https://rooms.station.site/mcp" }
+    }
+  }
+  ```
+
 - **Gemini CLI:** `gemini extensions install https://github.com/santorilabs/station-plugin`
 - **Any other MCP client:** add `https://rooms.station.site/mcp` as a streamable HTTP server.
 
